@@ -27,7 +27,7 @@ export const Header: React.FC = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2 flex-shrink-0">
             <img 
-              src="images\swastic.webp" 
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8nJZHEwmFa19A_QJGhQYmkMl6hYNpJhftsQ&s" 
               alt="Swastick Electronics Logo" 
               className="w-10 h-10 rounded-lg object-cover"
             />
